@@ -12,7 +12,7 @@ El sistema permite:
   - Estructura Competitiva: Gestión de jugadores y equipos de eSports asociados al establecimiento.
 
 
-- Bloques Principales -
+  BLOQUES PRINCIPALES
 
   A. Infraestructura y Configuración
   
@@ -34,7 +34,7 @@ El sistema permite:
     pedido y detalle_pedido: Cabecera y líneas de detalle de las ventas realizadas.
   
 
-- Diagrama de Relaciones -
+  DIAGRAMA DE RELACIONES
  
 El diseño sigue una estructura relacional normalizada para asegurar la integridad de los datos.
 Relación Usuario-Jugador: Un usuario puede ser registrado como jugador profesional del club.
